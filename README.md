@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://brtechnosoft.com/wp-content/uploads/2020/12/hire-flutter-development-india.jpg)
+
 
 ### Hi there 👋, my name is Suvrangshu Roy
 #### Software Developer
