@@ -11,7 +11,7 @@ i am currently a B.Tech undergrad in Siliguri Institute of Technology.
 I pride myself on doing quality work and maintain excellent communication. 
 Most of the time I work with Android Studio and some technologies I enjoy working with include Flutter, Java, C, firebase , SQL as well as native android development with Kotlin.
 
-Skills: Flutter / JAVA / Firebase / Kotlin / SQL
+Skills: Flutter / JAVA / Firebase / JavScript / SQL / HTML / CSS / TypeScript / React / NextJS / MongoDB / ExpressJS / NodeJS / Prisma /Tailwind
 
 
 
